@@ -66,3 +66,6 @@ Aqui estão os principais endpoints (pontos de acesso) para a API:
 - `/vendas`: Endpoint para gerenciar vendas.
 
 Este sistema ajuda você a organizar suas vendas, manter dados dos clientes e gerenciar sua equipe de vendas de forma simples e eficiente, utilizando tecnologias modernas e práticas. Experimente e aproveite a praticidade! 🚀
+
+[Video das Query](https://drive.google.com/file/d/1k85qSf9bTbyWpb2w94sKMBXmcxEAaHIc/view)
+
